@@ -28,7 +28,7 @@ This notebook explores the Airbnb dataset and focuses on cleaning up messy, scra
 
 ### C. Summary
 - **Original shape:** (7332, 90)
-- **Final shape:** (7332, 65)
+- **Final shape:** (7332, 62)
 
 ### D. Export
 - Cleaned dataset exported to `airbnb_cleaned.json` using `df.to_json(orient='table', indent=2)`
